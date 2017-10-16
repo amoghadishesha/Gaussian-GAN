@@ -18,5 +18,7 @@ $ python gan.py
 To run with minibatch discrimination (and plot the resulting distributions):
 
 $ python gan.py --minibatch
+
+
 This code is based on the Gaussian GANS code submitted by (https://github.com/AYLIEN/gan-intro)
 For more information see the blog post: http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow.
